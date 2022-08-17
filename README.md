@@ -72,3 +72,18 @@ All Yawww events are supported.
 | Sale by offer | `nft.sale.offer` ([example](https://tricorder.moon.art/latest/tx/4r7mbGHAxXmVTbtfvSqZpUN4K32CTS46P7RjVDi1MEasTu1xPkoWG74AtwdLoKF9DScuFYjZ5BymgcThQPxPQ4QH))|
 | Place Bid | `nft.bid.place` ([example](https://tricorder.moon.art/latest/tx/35bB8y3Qw6qaaaRDw1M5LM7yG1SYTvr776oYy6WFzLdTDawWZiR5R8u7cCYe7ur5rgayGBmbpbC5tHBQYkAc4z7U))|
 | Cancel Bid | `nft.bid.cancel` ([example](https://tricorder.moon.art/latest/tx/3P8SWL9vtfLRp9Yy7xY5W3jqJ8bCYyBCUZpJFHJNuFMDEjYUYrfs1epbYYYdpFtfY6nsLT38fKxDELuDhysLRrTQ))|
+
+#### Solanart v1 `(CJsLwbP1iu5DuUikHEJnLfANgKy6stB2uFgvBBHoyxwz)`
+
+##### Supported Events
+
+All Solanart v1 events are supported.
+
+| Event Type | Event ID |
+|--|--|
+| Listing | `nft.listing.create` ([example](https://tricorder.moon.art/latest/tx/5ugJyUu8shDVb66haLaLQBjqhHtQgTnpyAFxrE8r52WJvKsBk976xgyrx4VCunCaBpJDRED4heDpJGnFKVXwnvo1))|
+| Delisting | `nft.listing.cancel` ([example](https://tricorder.moon.art/latest/tx/5wK232TBf7oiJ7Y9qqAmqnGa3jdzqMjVpMdqKdorLn56e7Ss2p6USszk2EYaQjULGKz6pFrBKMtF9E9BT9vBtGPv))|
+| Sale | `nft.sale` ([example](https://tricorder.moon.art/latest/tx/5R3kJu7YJp8UFcqKjDowEmYifxZEwaWeriNPve598mPoLmmhbdA8KpGZXMNmpmyLbvjmRJFYGX1THCvDvokKUpYr))|
+| Sale by offer | `nft.sale.offer` ([example](https://tricorder.moon.art/latest/tx/4XPpL39eWaxwtcZLt7aCMt4iYHEPXBVFF3dzS4GhZKZyTVpDYTfA8KueinHWbVnSuqtnM5U1EJd2RFCpqVvJvzRW))|
+| Place Bid | `nft.bid.place` ([example](https://tricorder.moon.art/latest/tx/2mjNVYmzVJY5BiyvC18w5HdR5eAU3hzZ7dC5pVAUiDkYHQjEJKmmW5jGCFBMXp6XnVuYkDSV7HTbvTtFRJv4ryTJ))|
+| Cancel Bid | `nft.bid.cancel` ([example](https://tricorder.moon.art/latest/tx/YWiNYW1E3K467ZHNyZv4yzeeJ3SJSc1295gU1hcwZtS2B7nQk8BoG526kwrYG2SQ8pt2FgGdcq8oPMnQ7Y2o5NW))|

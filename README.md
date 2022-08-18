@@ -1,3 +1,5 @@
+![tricorder_logo](https://user-images.githubusercontent.com/91814443/185467170-b718d518-21f6-4659-923a-7e11e62434c2.png)
+
 # tricorder-api
 
 A web service for categorizing Solana transactions.

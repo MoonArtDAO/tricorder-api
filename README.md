@@ -41,6 +41,21 @@ All Magic Even v2 events are supported.
 | Withdraw | `market.wallet.withdraw` ([example](https://tricorder.moon.art/latest/tx/2enVjNUrNZ6PymB5dKZbZVVX82KoUSsR75jK8kewRt6Ka6DdjdUFJbpoHuZhA2mbBwupWwDvMZPYwKMeVSMhcU7o))|
 | Withdraw From Treasury | `market.treasury.withdraw` ([example](https://tricorder.moon.art/latest/tx/2wXe2ihoiZz6ARuKEGZzq1Mn1fF22Tk5umGohXNvVZy4ay6KXvEfTD2bt1Ck4nardJwwjyuzbJjUnqByFpCUddJg))|
 
+#### Magic Eden v1 `(MEisE1HzehtrDpAAT8PnLHjpSSkRYakotTuJRPjTpo8)`
+
+##### Supported Events
+
+All Magic Even v1 events are supported. 
+
+| Event Type | Event ID |
+|--|--|
+| Listing | `nft.listing.create` ([example](https://tricorder.moon.art/latest/tx/4t9oy6ty7qZN9D5NtGrrDu6q5EjWjBD85iZvkEKCziWAc5u1g5y5BEvcnZGTHbgbB4GxZiqT7yPj48WrUhec919g))|
+| Delisting | `nft.listing.cancel` ([example](https://tricorder.moon.art/latest/tx/3nH3h9jNhgpjEE3ZwoCzvcbEBa5Rq4jWZgd9t3vRSM6NnZFfUnXojjhAXCf1RocKbwKoEuW5EJxuHSdVVHWStijX))|
+| Sale | `nft.sale` ([example](https://tricorder.moon.art/latest/tx/5hWGRmMAGYbMKzf3ozL3JEnaKwko7G1p1DxJ6SvdZyk1t1Cmqq3wSGcTi9oAu11nk5rP3eSAGWNHDVQQJfdDTTTq))|
+| Sale by offer | `nft.sale.offer` ([example](https://tricorder.moon.art/latest/tx/5sZa2R9piR5PVKS1qEAnQzU9WU6aKPU86ZTbvUQXvQySigvF9iYw5JQ1VdEpA53PHC5zrUjNvC4EvpZL4mJLxmNn))|
+| Place Bid | `nft.bid.place` ([example](https://tricorder.moon.art/latest/tx/27NaKFUjfTECk58ddHWAvoz2fmcWB7V6DeGR7ApY7igKkTBDpsvDQDq9a3ogcQrMxb58yqVbTeHiDno8qz6C8k4j))|
+| Cancel Bid | `nft.bid.cancel` ([example](https://tricorder.moon.art/latest/tx/3pdiy55CGKGmeYnrrGhmvBXe8oDnjjBgEAeLHn7TzEX3C6KFFT4oZAfyVjjMyK3MYWmZWY35Y84FwU19AubL6xaQ))|
+
 
 #### Auction House`(hausS13jsjafwWwGqZTUQRmWyvyxn9EQpqMwV1PBBmk)`
 
